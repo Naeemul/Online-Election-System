@@ -1,0 +1,25 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+}
+.head{
+	width: 100vw;
+	height: 15vh;
+	background: darkmagenta;
+}
+.body{
+	width: 100vw;
+	height: 85vh;
+	background: lightgray;
+	position: relative;
+}
+.box{
+	width: 70vw;
+	height: 79vh;
+	background: #A0A0A0;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	
+}
